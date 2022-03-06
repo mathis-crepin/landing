@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Arial' , serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1,h2,h3 {
+	font-family: 'Verdana', sans-serif;
+	font-weight: bold;
+}
+a{
+	text-decoration: none;
+	width: 90px;
+	height: 40px;
+}
